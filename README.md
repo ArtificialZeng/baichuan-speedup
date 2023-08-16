@@ -302,3 +302,6 @@ python3 tools/moss_export.py moss-int4.flm int4 #导出int4模型
 
 - 支持ONNX模型导入、推理
 - 支持模型微调
+
+### 源项目请访问
+https://github.com/ztxz16/fastllm
